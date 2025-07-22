@@ -1,0 +1,17 @@
+C:\Users\Admin\source\PNPS DLL Compiler\bin\Debug\net8.0-windows\PNPS DLL Compiler.exe
+C:\Users\Admin\source\PNPS DLL Compiler\bin\Debug\net8.0-windows\PNPS DLL Compiler.deps.json
+C:\Users\Admin\source\PNPS DLL Compiler\bin\Debug\net8.0-windows\PNPS DLL Compiler.runtimeconfig.json
+C:\Users\Admin\source\PNPS DLL Compiler\bin\Debug\net8.0-windows\PNPS DLL Compiler.dll
+C:\Users\Admin\source\PNPS DLL Compiler\bin\Debug\net8.0-windows\PNPS DLL Compiler.pdb
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.csproj.AssemblyReference.cache
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.AssemblyInfoInputs.cache
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.AssemblyInfo.cs
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.dll
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\refint\PNPS DLL Compiler.dll
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.pdb
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.genruntimeconfig.cache
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\ref\PNPS DLL Compiler.dll
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\source\PNPS DLL Compiler\obj\Debug\net8.0-windows\PNPS DLL Compiler.csproj.Fody.RuntimeCopyLocal.cache
