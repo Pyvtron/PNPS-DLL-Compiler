@@ -1,5 +1,5 @@
 # PNPS-DLL-Compiler
-Compiles C# files into Dynamic Link Library Files
+Compiles C# files into .DLL (Dynamic Link Library) Files
 
 ## Requirements
 
