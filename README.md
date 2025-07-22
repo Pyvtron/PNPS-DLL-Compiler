@@ -3,7 +3,8 @@ Compiles C# files into .DLL (Dynamic Link Library) Files
 
 ## Requirements
 
-Windows 11 (Recommended) or Windows 10 (Not Recommended
+Windows 11 (Recommended) or Windows 10 (Not Recommended)
+
 Windows 32-Bit System Or 64-Bit System.
 
 ## Installation
