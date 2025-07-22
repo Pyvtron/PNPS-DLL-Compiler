@@ -18,10 +18,10 @@ Open it, and now you can choose .cs files and convert them to .DLL!
 
 ## Images
 
-![DLL Compiler](https://i.ibb.co/Gv811nwT/PNPSDLLCompiler-Leak.png)
+![DLL Compiler 1st Image](https://i.ibb.co/Gv811nwT/PNPSDLLCompiler-Leak.png)
 
-![DLL Compiler](https://i.ibb.co/CRBwg1f/PNPSDLLCompiler-Leak-2.png)
+![DLL Compiler 2nd Image](https://i.ibb.co/CRBwg1f/PNPSDLLCompiler-Leak-2.png)
 
-![DLL Compiler](https://i.ibb.co/tTCXXPZH/PNPSDLLCompiler-Leak-3.png)
+![DLL Compiler 3th Image](https://i.ibb.co/tTCXXPZH/PNPSDLLCompiler-Leak-3.png)
 
 
