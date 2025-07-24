@@ -6,9 +6,9 @@
 
 PNPS Stands For: Pyvtron Projects
 
-This tool allows you to compiler C# Files (.CS) into Dynamic Link Library (.DLL) files.
+This tool allows you to compile C# Files (.CS) into Dynamic Link Library (.DLL) files.
 
-It is completely writen in C# in Visual Studio 2022 Preview
+It is completely writen in C# in Visual Studio 2022 Preview.
 
 ## Requirements
 
@@ -32,7 +32,11 @@ My Website: https://pyvtron-projects.netlify.app
 
 DLL Compiler On My Website: https://pyvtron-projects.netlify.app/dll-compiler
 
+Visual Studio 2022 Preview: https://visualstudio.microsoft.com/en/vs/preview/
+
 ## Images
+
+The program looks like this
 
 ![Image](https://i.ibb.co/Gv811nwT/PNPSDLLCompiler-Leak.png)
 
