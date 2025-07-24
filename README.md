@@ -1,6 +1,12 @@
 ## PNPS DLL Compiler
 
-PNPS (Pyvtron Projects) DLL Compiler is a program that allows you to convert .cs files to .dll files
+![DLL Compiler](https://i.ibb.co/wh4GmQKJ/DLLCompiler-Logo.png)
+
+## Details
+
+PNPS Stands For: Pyvtron Projects
+This tool allows you to compiler C# Files (.CS) into Dynamic Link Library (.DLL) files.
+It is completely writen in C# in Visual Studio 2022 Preview
 
 ## Requirements
 
