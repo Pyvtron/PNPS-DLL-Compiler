@@ -36,7 +36,7 @@ Visual Studio 2022 Preview: https://visualstudio.microsoft.com/en/vs/preview/
 
 ## Images
 
-The program looks like this
+The program looks like this:
 
 ![Image](https://i.ibb.co/Gv811nwT/PNPSDLLCompiler-Leak.png)
 
